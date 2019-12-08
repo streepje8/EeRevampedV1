@@ -1,0 +1,14 @@
+name: EERevamped
+version: 1.0
+main: com.streep.mod.Main
+commands:
+  mana:
+    description: CheckYoMana
+  givemana:
+    description: CheatHard
+  crafting:
+    description: CraftingGuide
+  customenchant:
+    description: CustomEnchant
+  customsummon:
+    description: CustomSummon
